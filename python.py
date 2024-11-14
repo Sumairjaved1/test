@@ -1,5 +1,3 @@
 # New file for testing the git push pull
-x = 2
-y = 6
-z = x + y   
-print(z)
+
+print("Just for testing the issues happened while push and pull")
